@@ -4,8 +4,8 @@ export default function SquareContent2() {
             <div className="relative overflow-hidden bg-gray-100">
                 <div className="absolute top-0 left-0 z-10 w-full h-full"></div>
                 <div className="relative z-20 flex flex-wrap">
-                    <div className="w-full lg:w-2/5">
-                        <div className="px-6 md:px-10 pt-8 pb-12 max-w-lg">
+                    <div className="w-full lg:w-1/2">
+                        <div className="px-6 md:px-10 py-8 lg:pb-16 max-w-lg">
                             <div className="font-semibold">Tagline</div>
                             <div className="pt-12 md:pt-24 lg:pt-28"></div>
                             <h2>
@@ -31,8 +31,23 @@ export default function SquareContent2() {
                         </div>
                     </div>
 
-                    <div className="w-full lg:w-3/5">
-                        <div className="w-full h-full flex items-center justify-center px-6 md:px-10">
+                    <div className="w-full lg:w-1/2">
+                        <div className="h-full max-w-xl mx-auto flex flex-wrap items-center justify-center py-8">
+                            <div className="w-full md:w-1/2 px-4 py-6">
+                                <div className="text-center text-xl md:text-2xl leading-none">Including</div>
+                                <div className="py-2 text-center text-5xl md:text-7xl lg:text-9xl font-bold leading-none">
+                                    200</div>
+                                <div className="text-center text-xl md:text-2xl font-normal leading-none">
+                                    HTML
+                                    blocks</div>
+                            </div>
+                            <div className="w-full md:w-1/2 px-4 py-6">
+                                <div className="text-center text-xl md:text-2xl leading-none">Across</div>
+                                <div className="py-2 text-center text-5xl md:text-7xl lg:text-9xl font-bold leading-none">
+                                    15</div>
+                                <div className="text-center text-xl md:text-2xl font-normal leading-none">
+                                    categories</div>
+                            </div>
                         </div>
                     </div>
                 </div>

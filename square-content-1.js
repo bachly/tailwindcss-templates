@@ -33,7 +33,9 @@ export default function SquareContent1() {
 
                     <div className="w-full lg:w-3/5">
                         <div className="w-full h-full flex items-center justify-center px-6 md:px-10">
-                            <div className="pb-3/4 w-full bg-gray-200"></div>
+                            <div className="pb-3/4 w-full bg-gray-200">
+                                <img src="https://here.li/image-illustrations/backpack.png" loading="lazy" width="1000" height="1000" />
+                            </div>
                         </div>
                     </div>
                 </div>
