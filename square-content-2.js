@@ -1,4 +1,4 @@
-export default function SquareContent1() {
+export default function SquareContent2() {
     return <section className="py-8">
         <div className="md:max-w-xl lg:max-w-7xl mx-auto">
             <div className="relative overflow-hidden bg-gray-100">
@@ -33,7 +33,6 @@ export default function SquareContent1() {
 
                     <div className="w-full lg:w-3/5">
                         <div className="w-full h-full flex items-center justify-center px-6 md:px-10">
-                            <div className="pb-3/4 w-full bg-gray-200"></div>
                         </div>
                     </div>
                 </div>
