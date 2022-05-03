@@ -21,7 +21,7 @@ export default function GridAccountSettingsMenu({ title = "Account Settings", us
     </section>
 }
 
-function MenuItem({ title = "Menu title", description = "This is the menu description default text", href = "#", bgColor = "bg-blue-500" }) {
+function MenuItem({ title = "Menu title", description = "This is the menu description default text", href = "javascript:void(0)", bgColor = "bg-blue-500" }) {
     return <a href={href} className="bg-white border border-gray-300 shadow-sm py-6 px-4 rounded-xl hover:shadow-md transition duration-200">
         <div className={`${bgColor} text-white rounded-full w-10 h-10`}>
             <div className="w-full h-full flex items-center justify-center text-xl">

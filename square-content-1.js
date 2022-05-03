@@ -9,15 +9,15 @@ export default function SquareContent1() {
                             <div className="font-semibold">Tagline</div>
                             <div className="pt-12 md:pt-24 lg:pt-28"></div>
                             <h2>
-                                <div className="text-3xl sm:text-4xl md:text-6xl opacity-50 font-semibold leading-tight">
+                                <div className="text-3xl md:text-4xl lg:text-6xl opacity-50 font-semibold leading-tight">
                                     Flexible</div>
-                                <div className="text-3xl sm:text-4xl md:text-6xl font-semibold leading-tight">
+                                <div className="text-3xl md:text-4xl lg:text-6xl font-semibold leading-tight">
                                     <p>building</p>
                                     <p>blocks</p>
                                 </div>
                             </h2>
                             <div className="pt-8"></div>
-                            <div className="text-base md:text-xl">
+                            <div className="text-base md:text-lg lg:text-xl">
                                 <p>Here is a collection of website building blocks and components. Tell the stories
                                     of
                                     your brand or products in a variety of format. Crafted in HTML5 &amp;
@@ -25,7 +25,7 @@ export default function SquareContent1() {
                                     the templates are reusable &amp; customisable for any frontend stack.</p>
                             </div>
                             <div className="pt-16"></div>
-                            <a className="border-2 border py-2 px-4 rounded-full" href="#">
+                            <a className="border-2 border py-2 px-4 rounded-full" href="javascript:void(0)">
                                 Learn more about this feature
                             </a>
                         </div>
