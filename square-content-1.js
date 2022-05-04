@@ -25,7 +25,7 @@ export default function SquareContent1() {
                                 </p>
                             </div>
                             <div className="pt-16"></div>
-                            <a className="border-2 border py-2 px-4 rounded-full" href="javascript:void(0)">
+                            <a className="border-2 border py-2 px-4 rounded-full">
                                 Learn more about this feature
                             </a>
                             <div className="pt-8 lg:pt-16"></div>
